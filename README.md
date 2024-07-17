@@ -16,20 +16,18 @@
 
 ### PostMan测试接口展示
 
-![1721134623867](D:\xiaoxiongDate\data\1721134623867.png)
+![20240716224441](https://github.com/user-attachments/assets/88207ef7-4091-4165-a7a3-fe03cde83599)
 
+![20240716224509](https://github.com/user-attachments/assets/1ebfc475-3634-4667-b05d-c48eddd0efbf)
 
+![20240716224527](https://github.com/user-attachments/assets/23997571-3cb6-4af0-9448-b72a446af6a0)
 
-![1721140730359](D:\xiaoxiongDate\data\1721140730359.png)
+![20240716224543](https://github.com/user-attachments/assets/04abe297-d60d-402b-b0a0-8427fd18d7d4)
 
-![1721140741266](D:\xiaoxiongDate\data\1721140741266.png)
+![20240716224603](https://github.com/user-attachments/assets/76d1df4b-5ffc-4adc-b646-6b07f08502c7)
 
-![1721140757846](D:\xiaoxiongDate\data\1721140757846.png)
+![20240716224617](https://github.com/user-attachments/assets/42f50da1-9652-431f-834e-68b1aa790320)
 
-
-
-
-
-![1721134656379](D:\xiaoxiongDate\data\1721134656379.png)
-
-![1721134669545](D:\xiaoxiongDate\data\1721134669545.png)
+### 项目地址
+Gitee地址：https://gitee.com/the-sun-is-in-the-sky/my-blog.git
+github地址：https://github.com/yangguang0416/my-blog.git
